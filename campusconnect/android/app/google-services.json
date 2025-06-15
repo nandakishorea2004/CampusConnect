@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075161981426",
+    "project_id": "flutterconnect-b3d2a",
+    "storage_bucket": "flutterconnect-b3d2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075161981426:android:5c7b5a66836415c8ff0b6b",
+        "android_client_info": {
+          "package_name": "com.brainwired.brainwired"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04HwxpZjekr6pqfFQ4EZVZXQ60NQgxYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
